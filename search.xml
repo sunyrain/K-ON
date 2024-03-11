@@ -651,6 +651,26 @@
 </ul>
 </li>
 </ul>
+<h3 id="经过与辅助的四六和弦"><a href="#经过与辅助的四六和弦" class="headerlink" title="经过与辅助的四六和弦"></a>经过与辅助的四六和弦</h3><h4 id="经过的四六和弦-标准进行"><a href="#经过的四六和弦-标准进行" class="headerlink" title="经过的四六和弦 标准进行"></a>经过的四六和弦 标准进行</h4><ul>
+<li>例如旋律321 根音123 中音555 次中音171</li>
+<li>也适用于旋律654</li>
+<li>571</li>
+</ul>
+<h4 id="辅助的四六和弦"><a href="#辅助的四六和弦" class="headerlink" title="辅助的四六和弦"></a>辅助的四六和弦</h4><ul>
+<li>例如低音题结尾是很长的主音</li>
+<li>$T-S_4^6-T$</li>
+<li>$D-T_4^6-D$</li>
+<li>也可以从调性视角理解，f小调到c小调，$S_4^6-T$</li>
+</ul>
+<h3 id="原位属七和弦-D7"><a href="#原位属七和弦-D7" class="headerlink" title="原位属七和弦$D7$"></a>原位属七和弦$D7$</h3><ul>
+<li>五音可以省</li>
+</ul>
+<h4 id="属七和弦的解决"><a href="#属七和弦的解决" class="headerlink" title="属七和弦的解决"></a>属七和弦的解决</h4><ul>
+<li>五音、七音下行解决到根音、三音</li>
+<li>三音可到主音也可到五音</li>
+<li>根音必须到主音（原位条件下也即$D7$）</li>
+</ul>
+<h4 id="属七和弦的进行（七音要有准备）"><a href="#属七和弦的进行（七音要有准备）" class="headerlink" title="属七和弦的进行（七音要有准备）"></a>属七和弦的进行（七音要有准备）</h4><p>$S-D7-T,S6-D7-T$<br>$T-D7-T,T6-D7-T$<br>$S-D-D7-T,S6-D-D7-T$<br>（特殊进行）$D-D7-T$</p>
 ]]></content>
       <tags>
         <tag>小课堂</tag>
@@ -724,7 +744,18 @@
 <li>由乐句构成，属于乐段。一个乐段的曲式为单一部曲式</li>
 <li>收拢性乐段：主调结束，结尾停在主和弦</li>
 </ul>
-<h4 id="舒曼-少年曲集"><a href="#舒曼-少年曲集" class="headerlink" title="舒曼 少年曲集"></a>舒曼 少年曲集</h4>]]></content>
+<h4 id="舒曼-少年曲集"><a href="#舒曼-少年曲集" class="headerlink" title="舒曼 少年曲集"></a>舒曼 少年曲集</h4><h4 id="复乐段"><a href="#复乐段" class="headerlink" title="复乐段"></a>复乐段</h4><ul>
+<li>复乐段不升级为单二部曲式，仍然是单一部曲式</li>
+<li>例如a b | a1 c ,<ul>
+<li>收拢性，平行复乐段</li>
+</ul>
+</li>
+<li>例如a a1 | b c，起承转合<ul>
+<li>开放性，对比复乐段</li>
+</ul>
+</li>
+</ul>
+]]></content>
       <tags>
         <tag>小课堂</tag>
       </tags>
