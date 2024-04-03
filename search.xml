@@ -655,6 +655,7 @@
 <li>例如旋律321 根音123 中音555 次中音171</li>
 <li>也适用于旋律654</li>
 <li>571</li>
+<li>经过的旋律只要有就标准处理</li>
 </ul>
 <h4 id="辅助的四六和弦"><a href="#辅助的四六和弦" class="headerlink" title="辅助的四六和弦"></a>辅助的四六和弦</h4><ul>
 <li>例如低音题结尾是很长的主音</li>
@@ -670,7 +671,69 @@
 <li>三音可到主音也可到五音</li>
 <li>根音必须到主音（原位条件下也即$D7$）</li>
 </ul>
-<h4 id="属七和弦的进行（七音要有准备）"><a href="#属七和弦的进行（七音要有准备）" class="headerlink" title="属七和弦的进行（七音要有准备）"></a>属七和弦的进行（七音要有准备）</h4><p>$S-D7-T,S6-D7-T$<br>$T-D7-T,T6-D7-T$<br>$S-D-D7-T,S6-D-D7-T$<br>（特殊进行）$D-D7-T$</p>
+<h4 id="属七和弦的进行（七音要有准备）"><a href="#属七和弦的进行（七音要有准备）" class="headerlink" title="属七和弦的进行（七音要有准备）"></a>属七和弦的进行（七音要有准备）</h4><ul>
+<li>$S-D7-T,S6-D7-T$</li>
+<li>$T-D7-T,T6-D7-T$</li>
+<li>$S-D-D7-T,S6-D-D7-T$</li>
+<li>（特殊进行）$D-D7-T$</li>
+<li>$D-D7$效果不错，一般来说，$D7$是$D$的替代与连续</li>
+</ul>
+<h4 id="属七和弦的转位"><a href="#属七和弦的转位" class="headerlink" title="属七和弦的转位"></a>属七和弦的转位</h4><ul>
+<li>转位的解决和原位一样，注意从原和弦的位置考虑<ul>
+<li>五音可以保持，不用回到根音</li>
+</ul>
+</li>
+<li>D56\D34都到T，D2去T6（最具有浪漫主义特征）</li>
+<li>$D6-D56-T$、 $S6-D56-T$（平行六和弦）、 $S-D56-T$、</li>
+</ul>
+<h4 id="经过的D34"><a href="#经过的D34" class="headerlink" title="经过的D34"></a>经过的D34</h4><ul>
+<li>$T-D34-T6$ 7和弦的解决有问题，同时存在增五到纯五<ul>
+<li>但是考虑到D34是经过的，所以属于特殊情况</li>
+<li>倒过来是正常的</li>
+</ul>
+</li>
+</ul>
+<h4 id="D2-的运用"><a href="#D2-的运用" class="headerlink" title="$D2$的运用"></a>$D2$的运用</h4><ul>
+<li>$D-D2-T6$（很不错，$D$后面可以考虑加$D_2$）</li>
+<li>$S-D2-T6$</li>
+<li>$D-D2-DTlll$ 低音解决，功能不解决（心碎之感）</li>
+</ul>
+<h4 id="属七和弦的跳进"><a href="#属七和弦的跳进" class="headerlink" title="属七和弦的跳进"></a>属七和弦的跳进</h4><ul>
+<li>只限于$D2-T6$（或者$D_3^4-T$）</li>
+<li>可双跳也可单跳</li>
+<li>除跳进声部外，平稳进行</li>
+<li>$D7-T$反向八度可用于结尾</li>
+</ul>
+<h4 id="SⅡ6"><a href="#SⅡ6" class="headerlink" title="SⅡ6"></a>SⅡ6</h4><ul>
+<li>重复音：根三五，首选三音（原和弦的三音，和TSD的规则不同）<ul>
+<li>下属功能性强于$S$</li>
+</ul>
+</li>
+<li>$T$与SⅡ6（谨防平行五度）<ul>
+<li>可以通过$S$到SⅡ6</li>
+</ul>
+</li>
+<li>$T$-SⅡ6-$D$</li>
+<li>SⅡ6-$D$<ul>
+<li>Re保持</li>
+</ul>
+</li>
+<li>SⅡ6-D7<ul>
+<li>SⅡ6重复三音最佳进行<ul>
+<li>因为和除了$D_2$以外都没有为7音做准备</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="SⅡ"><a href="#SⅡ" class="headerlink" title="SⅡ"></a>SⅡ</h4><ul>
+<li>重复音：根音</li>
+<li>S-SⅡ</li>
+<li>SⅡ6-T-SⅡ、SⅡ6-T46-SⅡ<ul>
+<li>处理234、432、456<br>作业1 T S S26 D 第三小节结尾S S26 K46结尾K46-D-T<br>作业7 S26 D34 T</li>
+</ul>
+</li>
+</ul>
 ]]></content>
       <tags>
         <tag>小课堂</tag>
@@ -752,6 +815,103 @@
 </li>
 <li>例如a a1 | b c，起承转合<ul>
 <li>开放性，对比复乐段</li>
+</ul>
+</li>
+</ul>
+<h4 id="拉赫玛尼诺夫"><a href="#拉赫玛尼诺夫" class="headerlink" title="拉赫玛尼诺夫"></a>拉赫玛尼诺夫</h4><ul>
+<li>f小调到c小调，从下属调出发</li>
+</ul>
+<h3 id="单二部曲式"><a href="#单二部曲式" class="headerlink" title="单二部曲式"></a>单二部曲式</h3><h4 id="再现单二部曲式"><a href="#再现单二部曲式" class="headerlink" title="再现单二部曲式"></a>再现单二部曲式</h4><ul>
+<li>特征：曲体结构的二部性与结构功能的三部性</li>
+<li>半对比、半再现</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>结构</th>
+<th>A</th>
+<th>B</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>次一级结构</td>
+<td>a+a1</td>
+<td>b+a1（靠b体现B）（一般再现第二句）</td>
+</tr>
+<tr>
+<td>小节数</td>
+<td>4 4</td>
+<td>4 4</td>
+</tr>
+<tr>
+<td>陈述方式</td>
+<td>呈示性</td>
+<td>展开性 呈示性</td>
+</tr>
+</tbody></table>
+<h4 id="舒曼-初衷《少年曲集》"><a href="#舒曼-初衷《少年曲集》" class="headerlink" title="舒曼 初衷《少年曲集》"></a>舒曼 初衷《少年曲集》</h4><table>
+<thead>
+<tr>
+<th>结构</th>
+<th>A</th>
+<th>B</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>次一级结构</td>
+<td>a+a1</td>
+<td>b+a1</td>
+</tr>
+<tr>
+<td>小节数</td>
+<td>8 8</td>
+<td>8 8</td>
+</tr>
+<tr>
+<td>陈述方式</td>
+<td>呈示性</td>
+<td>展开性 呈示性</td>
+</tr>
+</tbody></table>
+<h4 id="前奏曲-斯克里亚宾op-11-no-17"><a href="#前奏曲-斯克里亚宾op-11-no-17" class="headerlink" title="前奏曲 斯克里亚宾op.11 no.17"></a>前奏曲 斯克里亚宾op.11 no.17</h4><ul>
+<li>再现单二部曲式，重复不改变曲式</li>
+</ul>
+<h4 id="舒伯特《摇篮曲》"><a href="#舒伯特《摇篮曲》" class="headerlink" title="舒伯特《摇篮曲》"></a>舒伯特《摇篮曲》</h4><ul>
+<li>再现单二部曲</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>结构</th>
+<th>A</th>
+<th>B</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>次一级结构</td>
+<td>a+a1</td>
+<td>b+a1</td>
+</tr>
+<tr>
+<td>小节数</td>
+<td>2 2</td>
+<td>2 2</td>
+</tr>
+</tbody></table>
+<h4 id="并列单二部曲式"><a href="#并列单二部曲式" class="headerlink" title="并列单二部曲式"></a>并列单二部曲式</h4><ul>
+<li>两个具有单一部曲式的段落的联合，纯对比，不再现</li>
+<li>歌曲范式<ul>
+<li>A（起承转合）B（多句结构）</li>
+</ul>
+</li>
+</ul>
+<h4 id="格里格-《索尔维格之歌》"><a href="#格里格-《索尔维格之歌》" class="headerlink" title="格里格 《索尔维格之歌》"></a>格里格 《索尔维格之歌》</h4><h3 id="再现单三部曲式"><a href="#再现单三部曲式" class="headerlink" title="再现单三部曲式"></a>再现单三部曲式</h3><ul>
+<li>三个具有单一部曲式（乐段）的音乐段落的联合</li>
+<li>三段体结构（呈示，对比，再现）<br>标准格式<br>ABA</li>
+<li>再现单三部曲式的中段<ul>
+<li>对比式中段</li>
+<li>单一主题展开中段</li>
+<li>混合性中段</li>
 </ul>
 </li>
 </ul>
@@ -1662,6 +1822,54 @@
 </ul>
 </li>
 <li><p>　之わ　私の　ノートパソコン　です</p>
+</li>
+<li><p>この／その／あの　名は　名です</p>
+<ul>
+<li>修饰名词时，要用この／その／あの，表示的位置关系与これ／それ／あれ相同</li>
+<li>この　カメラは　スミスさんのです</li>
+<li>その　自転車は　もさんのです</li>
+<li>あの　ノートは　誰のですか</li>
+<li>この　スマホは　李さんのです</li>
+</ul>
+</li>
+<li><p>どれ／どの</p>
+<ul>
+<li>森さんの　かばんは　どれ　ですか</li>
+<li>長嶋さんの　傘は　どれ　ですか　</li>
+<li>小野さんの　つくえは　どのつくえ　ですか</li>
+<li>李さんの　パソコンは　どれですか</li>
+</ul>
+</li>
+<li><p>人＆方</p>
+<ul>
+<li>方更加有礼貌</li>
+</ul>
+</li>
+<li><p>询问年龄</p>
+<ul>
+<li>何歳　いくつ</li>
+<li>何歳ですか　おいくつ</li>
+</ul>
+</li>
+<li><p>どうぞ</p>
+</li>
+<li><p>外来词</p>
+<ul>
+<li>シルク</li>
+<li>ハンカチ</li>
+</ul>
+</li>
+<li><p>课文</p>
+<ul>
+<li>これは　テレビですか</li>
+<li>いいえ　それは　テレビでは　ありません　パソコンです</li>
+<li>それは　なんですか</li>
+<li>これは　日本語の　本です</li>
+<li>森さんの　かばんは　どれですか</li>
+<li>あの　かばんです</li>
+<li>その　ノートは　だれのですか</li>
+<li>私のです</li>
+</ul>
 </li>
 </ul>
 ]]></content>
