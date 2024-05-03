@@ -628,7 +628,7 @@
 </ul>
 <h3 id="三和弦与六和弦的跳进"><a href="#三和弦与六和弦的跳进" class="headerlink" title="三和弦与六和弦的跳进"></a>三和弦与六和弦的跳进</h3><ul>
 <li>旋律跳进 内声部平稳进行 四至八度的跳进<ul>
-<li>T-S6 T-D6 D6-T T6-S</li>
+<li>T-S6 T-D6 D6-T T6-S D-T6</li>
 <li>重复音可以是根和五，所以多了选择</li>
 </ul>
 </li>
@@ -652,9 +652,22 @@
 </li>
 </ul>
 <h3 id="经过与辅助的四六和弦"><a href="#经过与辅助的四六和弦" class="headerlink" title="经过与辅助的四六和弦"></a>经过与辅助的四六和弦</h3><h4 id="经过的四六和弦-标准进行"><a href="#经过的四六和弦-标准进行" class="headerlink" title="经过的四六和弦 标准进行"></a>经过的四六和弦 标准进行</h4><ul>
-<li>例如旋律321 根音123 中音555 次中音171</li>
-<li>也适用于旋律654</li>
-<li>571</li>
+<li>旋律321 根音123 中音555 次中音171<ul>
+<li>T-D46-T6</li>
+</ul>
+</li>
+<li>旋律123 根音321 中音555 次中音171<ul>
+<li>T6-D46-T</li>
+</ul>
+</li>
+<li>旋律654 根音456 中音434 次中音111<ul>
+<li>S-T46-S6</li>
+</ul>
+</li>
+<li>旋律456 根音654 中音111 次中音434<ul>
+<li>S6-T46-S</li>
+</ul>
+</li>
 <li>经过的旋律只要有就标准处理</li>
 </ul>
 <h4 id="辅助的四六和弦"><a href="#辅助的四六和弦" class="headerlink" title="辅助的四六和弦"></a>辅助的四六和弦</h4><ul>
@@ -679,10 +692,7 @@
 <li>$D-D7$效果不错，一般来说，$D7$是$D$的替代与连续</li>
 </ul>
 <h4 id="属七和弦的转位"><a href="#属七和弦的转位" class="headerlink" title="属七和弦的转位"></a>属七和弦的转位</h4><ul>
-<li>转位的解决和原位一样，注意从原和弦的位置考虑<ul>
-<li>五音可以保持，不用回到根音</li>
-</ul>
-</li>
+<li>转位的解决，根音保持不动（也就是sol）</li>
 <li>D56\D34都到T，D2去T6（最具有浪漫主义特征）</li>
 <li>$D6-D56-T$、 $S6-D56-T$（平行六和弦）、 $S-D56-T$、</li>
 </ul>
@@ -733,6 +743,75 @@
 <li>处理234、432、456<br>作业1 T S S26 D 第三小节结尾S S26 K46结尾K46-D-T<br>作业7 S26 D34 T</li>
 </ul>
 </li>
+</ul>
+<h4 id="TSVI"><a href="#TSVI" class="headerlink" title="TSVI"></a>TSVI</h4><ul>
+<li>阻碍终止<ul>
+<li>目的：利用D、D7-TSVI阻碍终止，对乐句进行扩充</li>
+<li>一般重复三音，主要是躲平五</li>
+<li>小调里也是重复三音，防止增二度</li>
+</ul>
+</li>
+<li>阻碍终止中的跳进（不完全D7省略五音解决到TSVI）</li>
+<li>正常应用<ul>
+<li>1645</li>
+<li>164271</li>
+<li>16251</li>
+<li>一般来说在T后面，接的是S组</li>
+</ul>
+</li>
+</ul>
+<h4 id="SⅡ7"><a href="#SⅡ7" class="headerlink" title="SⅡ7"></a>SⅡ7</h4><ul>
+<li>意味着SⅡ6退居二线</li>
+<li>综上，共同音保持</li>
+<li>SⅡ7-D7<ul>
+<li>SⅡ7-D34</li>
+<li>SⅡ56-D2</li>
+<li>SⅡ34-D7</li>
+<li>SⅡ2-D56</li>
+</ul>
+</li>
+<li>SⅡ7-K46<ul>
+<li>SⅡ</li>
+</ul>
+</li>
+<li>SⅡ7-D<ul>
+<li>参考D7-T</li>
+<li>SⅡ7到D是解决</li>
+</ul>
+</li>
+<li>SⅡ7-T</li>
+<li>SⅡ2-T</li>
+<li>T-SⅡ7-D7-经过 中间阻碍终止 结束K46</li>
+</ul>
+<h3 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h3><ul>
+<li>旋律321 根音123 中音555 次中音171<ul>
+<li>T-D46-T6</li>
+</ul>
+</li>
+<li>旋律123 根音321 中音555 次中音171<ul>
+<li>T6-D46-T</li>
+</ul>
+</li>
+<li>旋律654 根音456 中音434 次中音111<ul>
+<li>S-T46-S6</li>
+</ul>
+</li>
+<li>旋律456 根音654 中音111 次中音434<ul>
+<li>S6-T46-S</li>
+</ul>
+</li>
+<li>旋律345 根音123 中音555 次中音171<ul>
+<li>T-D34-T6</li>
+</ul>
+</li>
+<li>旋律543 根音321 中音555 次中音171<ul>
+<li>T6-D34-T</li>
+</ul>
+</li>
+<li>旋律234 </li>
+<li>旋律432</li>
+<li>旋律456</li>
+<li></li>
 </ul>
 ]]></content>
       <tags>
@@ -914,6 +993,45 @@
 <li>混合性中段</li>
 </ul>
 </li>
+</ul>
+<h4 id="看总谱小知识"><a href="#看总谱小知识" class="headerlink" title="看总谱小知识"></a>看总谱小知识</h4><p>Piccolo 短笛<br>Flute 长笛<br>Oboe 双簧管<br>Clarinet 单簧管<br>Bassoon 巴松管<br>French Horn 法国号<br>Trumpet 小号<br>Trombone 长号<br>Tuba 大号<br>Timpani 定音鼓<br>Percussion 打击乐<br>Snare Drum 小军鼓<br>Bass Drum 低音鼓<br>Tambourine 手鼓<br>Bells 钟声<br>Finger Cymbals 手钹<br>Violin 小提琴<br>Viola 中提琴<br>Cello 大提琴<br>Bass 低音提琴<br>缩写：<br>FI（长笛）<br>PICC（短笛）<br>A-FI（中音长笛）<br>OB（双簧管）<br>C-ING（英国管）<br>A-OB（A调抒情双簧管）<br>bB-CI（bB调单簧管）<br>A-CI（A调单簧管）<br>C-CI（C调单簧管）<br>CI-B（低音单簧管）<br>FG（大管【巴松管】）<br>C-FG（低音大管【低音巴松管】）<br>T-SAX（高音萨克斯管）<br>A-SAX（中音萨克斯管）<br>B-SAX（次中音萨克斯管）<br>F-COR（F调圆号【F调法国号】）<br>C-COR（C调圆号【C调法国号】）<br>B-TRB（B调小号）<br>C-TRB（C调小号）<br>CPT（短号）<br>T-TRBN（高音长号）<br>A-TRBN（中音长号）<br>B-TRBN（低音长号）<br>TUB（大号）<br>TI（定音鼓）<br>CAMP（钟琴）<br>BELLS（排钟）<br>PIATTI（钹）<br>B-DRM（大鼓）<br>TAMB（小军鼓）<br>TRG（三角铁）<br>TAM-TAM（锣）<br>XIY（木琴）<br>APR（竖琴）<br>PNO（钢琴）<br>ORG（管风琴）<br>VI（小提琴）<br>VAL（中提琴）<br>VC（大提琴）<br>CB（倍大提琴【低音提琴】）</p>
+<h4 id="并列单三部"><a href="#并列单三部" class="headerlink" title="并列单三部"></a>并列单三部</h4><ul>
+<li>尾声具有再现性</li>
+</ul>
+<h4 id="三部五部"><a href="#三部五部" class="headerlink" title="三部五部"></a>三部五部</h4><ul>
+<li>单三部的变体</li>
+<li>ABABA</li>
+</ul>
+<h4 id="双三部"><a href="#双三部" class="headerlink" title="双三部"></a>双三部</h4><ul>
+<li>ABAB1A（结构相对于三部五部不变）</li>
+<li>B1和B时常会出现调对称的现象，即相对于A上下对称</li>
+<li>门德尔松 失去的快乐</li>
+</ul>
+<h3 id="复曲式"><a href="#复曲式" class="headerlink" title="复曲式"></a>复曲式</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><ul>
+<li>由大于单一部曲式的基础结构单位构成的曲体</li>
+</ul>
+<h4 id="复三部曲式"><a href="#复三部曲式" class="headerlink" title="复三部曲式"></a>复三部曲式</h4><ul>
+<li>基本图示</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>整体结构</th>
+<th>第一部分</th>
+<th>第二部分</th>
+<th>第三部分</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>次一级结构</td>
+<td>单三部 单二部</td>
+<td>三声中部&#x2F;插部</td>
+<td>单三部 单二部 缩减再现</td>
+</tr>
+</tbody></table>
+<ul>
+<li>A静止再现，简写为D.C多见于古典&#x2F;三声中部的再现</li>
+<li>B变化再现</li>
 </ul>
 ]]></content>
       <tags>
@@ -1876,5 +1994,10 @@
       <tags>
         <tag>小课堂</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>HTT动漫音乐小知识</title>
+    <url>/2024/04/29/HTT%E5%8A%A8%E6%BC%AB%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
